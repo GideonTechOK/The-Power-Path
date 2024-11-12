@@ -10,3 +10,5 @@ Microsoft Power Platform is a suite of tools designed to empower users across or
 With Power Platform, businesses can improve productivity, reduce manual work, and respond more quickly to changes. Its user-friendly tools bridge the gap between technical and non-technical users, making it an ideal solution for organizations aiming to streamline operations and boost innovation without relying solely on IT teams.
 
 Ready to get started? Explore each tool and see how Power Platform can empower your team to work smarter, not harder!
+
+[Who We Are](https://github.com/GideonTechOK/Power-Platform-Tips-and-Tricks/blob/main/Our%20Information.md)
